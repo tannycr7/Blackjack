@@ -23,12 +23,12 @@ For Windows users:
       ./a.exe
       
 For Linux users:
-    1) Open terminal
-    2) Navigate to the directory of download
-    3) Compile the program using gcc compiler
+   1) Open terminal
+   2) Navigate to the directory of download
+   3) Compile the program using gcc compiler
        sudo gcc blackjack.c
-    4) Run the program
-        ./a.out
+   4) Run the program
+       ./a.out
    
 You can also download a Third party IDE to run the program using the following link
 http://www.codeblocks.org/ 
